@@ -1,3 +1,5 @@
+<h1>asciiImages</h1>
+
 Perl ASCII Image Creator is a simple perl script to convert images into ASCII representations.
 Created by Evan Wildenberg.
 
@@ -7,7 +9,7 @@ type asciiImage.pl -h for usage.
 
 Supports:
 	-Linux
-	-Windows?
+	-Windows
 	-MacOS?
 
 Requirements:
